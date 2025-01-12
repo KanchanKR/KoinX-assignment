@@ -6,7 +6,7 @@
 
 You can view the live project at the following link:
 
-[**CoinPage Live Demo**](#)  _(Add your live demo URL here)_
+[**CoinPage Live Demo**](#)  _(https://koinx-assignment-kkr.netlify.app/)_
 
 ---
 
